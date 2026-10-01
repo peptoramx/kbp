@@ -18,7 +18,7 @@ const i18n = {
     p1P:"Diseñamos la estrategia de financiamiento antes de tocar una puerta: qué instrumento usar, con qué fuente y en qué orden. Armamos y colocamos el expediente completo de tu empresa, sin importar su tamaño —de una PYME que solicita su primer financiamiento a un corporativo en proceso de fusión—. Colaboramos con fuentes de inversión nacionales e internacionales —instituciones financieras privadas, fondos institucionales y organismos gubernamentales de desarrollo— y trabajamos cada expediente en español o en inglés.",
     p2Eyebrow:"Servicio complementario", p2H3:"Business planning",
     p2P:"Es la formulación y evaluación de tu proyecto de inversión: el documento que explica qué hace tu empresa, hacia dónde va, si el proyecto es viable y cómo planea lograrlo. Incluye estudio de mercado, estudio técnico y evaluación financiera —flujo, punto de equilibrio y rentabilidad esperada—. Sirve como respaldo para tu expediente de financiamiento y como mapa interno de decisión.",
-    spBadge:"Especialidad KBP", spH2:"Especialistas en sector primario: ganadería, agricultura, pesca y acuicultura",
+    spBadge:"Especialidad KABEPE", spH2:"Especialistas en sector primario: ganadería, agricultura, pesca y acuicultura",
     spP:"Conocemos los tiempos, los riesgos y los requisitos de quien produce y exporta desde el campo, el mar o el agua. Por eso construimos cuatro capas de estructuración para tu proyecto, pensadas para aumentar la probabilidad de obtener financiamiento nacional o extranjero.",
     sp1H:"Estructuración documental", sp1P:"Armamos el expediente completo —permisos, certificaciones, títulos y contratos— en el orden y formato que exige cada institución, en español o inglés.",
     sp2H:"Estructuración económica", sp2P:"Traducimos tu operación productiva en cifras: costos de producción, rendimiento esperado y punto de equilibrio, listos para sustentar la solicitud.",
@@ -50,7 +50,7 @@ const i18n = {
     "stepC-h":"Vinculación institucional", "stepC-p":"Conectamos el expediente con la fuente de inversión adecuada: instituciones privadas, fondos institucionales u organismos gubernamentales, en México o en el extranjero.",
     "stepD-h":"Negociación y cierre", "stepD-p":"Negociamos las condiciones más favorables con la fuente de inversión y te acompañamos hasta el cierre y la dispersión.",
     aboutMotto:'"El éxito de tu empresa es el éxito de nosotros."',
-    aboutSpan:"KBP Business & Projects",
+    aboutSpan:"KABEPE",
     quienesP:"Somos una firma consultora multidisciplinaria especializada en el diseño de planes de negocio y en la gestión de financiamiento —nacional e internacional, con fuentes institucionales, privadas y gubernamentales— para proyectos de inversión de cualquier tamaño, desde una PYME hasta un corporativo. Trabajamos cada proyecto en español o en inglés, según lo requiera el cliente o la institución financiera.",
     teamH2:"Un equipo, todas las disciplinas de tu proyecto",
     teamP:"Cada expediente se arma con el especialista correcto según el proyecto y el perfil del cliente, no con una plantilla fija.",
@@ -59,7 +59,7 @@ const i18n = {
     teamSecH2:"Equipo directivo y de consultoría", teamSecP:"Un especialista distinto según la disciplina que exige cada proyecto.",
     team1Role:"CEO y Economista Principal",
     team1Tag:"Estratega financiero, más de 20 años de experiencia",
-    team1Bio:"Con más de 20 años de experiencia, dirige la estrategia de KBP Business &amp; Projects. Se especializa en la estructuración de deuda compleja y el diseño de planes de negocio de nivel institucional. Su análisis micro y macroeconómico, combinado con modelos econométricos predictivos y análisis sectorial, ayuda a corporativos e inversionistas institucionales a anticipar condiciones de mercado, mitigar riesgo financiero y optimizar el rendimiento del capital.",
+    team1Bio:"Con más de 20 años de experiencia, dirige la estrategia de KABEPE. Se especializa en la estructuración de deuda compleja y el diseño de planes de negocio de nivel institucional. Su análisis micro y macroeconómico, combinado con modelos econométricos predictivos y análisis sectorial, ayuda a corporativos e inversionistas institucionales a anticipar condiciones de mercado, mitigar riesgo financiero y optimizar el rendimiento del capital.",
     team2Role:"Directora Jurídica y de Estructuración Corporativa",
     team2Tag:"Arquitecta legal y negociadora estratégica",
     team2Bio:"Más que asesoría legal, aporta estructuración de negocio. Se especializa en ingeniería financiera legal, fusiones, adquisiciones y levantamiento de capital. Diseña los contratos corporativos que blindan cada inversión, dando base legal sólida a la estrategia económica de KBP. Convierte el cumplimiento normativo en ventaja competitiva, reduciendo contingencias y dando certeza a los accionistas en la ejecución de proyectos de gran escala.",
@@ -77,7 +77,7 @@ const i18n = {
     contactCta1:"Escríbenos por correo", contactCta2:"Llámanos",
     contactL1:"Correo", contactL2:"Teléfono", contactL4:"Horario", contactL4val:"Lunes a viernes", contactL5:"Síguenos",
     footerTag:"Somos negocio, y tomamos tu negocio como si fuera nuestro. Tu éxito es nuestro éxito.",
-    footerLeft:"© 2019 KBP Business & Projects.",
+    footerLeft:"© 2019 KABEPE.",
     footerRight:"Consultoría administrativa, financiera y de proyectos · Todos los derechos reservados"
   },
   en:{
@@ -97,7 +97,7 @@ const i18n = {
     p1P:"We design the financing strategy before approaching any source: which instrument to use, with which source and in what order. We build and place your company's full file, regardless of size —from an SME requesting its first financing to a corporate going through a merger. We collaborate with national and international investment sources —private financial institutions, institutional funds and government development bodies— and work every file in Spanish or English.",
     p2Eyebrow:"Complementary service", p2H3:"Business planning",
     p2P:"The formulation and evaluation of your investment project: the document that explains what your company does, where it's headed, whether the project is viable, and how it plans to get there. It includes a market study, technical study and financial evaluation —cash flow, break-even point and expected return. It backs your financing file and works as an internal decision map.",
-    spBadge:"KBP Specialty", spH2:"Primary-sector specialists: livestock, agriculture, fishing and aquaculture",
+    spBadge:"KABEPE Specialty", spH2:"Primary-sector specialists: livestock, agriculture, fishing and aquaculture",
     spP:"We understand the timelines, risks and requirements of those who produce and export from the field, the sea or the water. That's why we build four structuring layers for your project, designed to raise the odds of getting domestic or foreign financing.",
     sp1H:"Documentary structuring", sp1P:"We build the full file —permits, certifications, titles and contracts— in the order and format each institution requires, in Spanish or English.",
     sp2H:"Economic structuring", sp2P:"We translate your productive operation into numbers: production costs, expected yield and break-even point, ready to support the request.",
@@ -129,7 +129,7 @@ const i18n = {
     "stepC-h":"Institutional matching", "stepC-p":"We connect the file with the right investment source: private institutions, institutional funds or government bodies, in Mexico or abroad.",
     "stepD-h":"Negotiation and close", "stepD-p":"We negotiate the most favorable terms with the investment source and support you through closing and disbursement.",
     aboutMotto:'"The success of your company is the success of ours."',
-    aboutSpan:"KBP Business & Projects",
+    aboutSpan:"KABEPE",
     quienesP:"We are a multidisciplinary consulting firm specialized in designing business plans and managing financing —domestic and international, with institutional, private and government sources— for investment projects of any size, from an SME to a corporate. We work every project in Spanish or English, as required by the client or the financial institution.",
     teamH2:"One team, every discipline your project needs",
     teamP:"Each file is built with the right specialist for the project and client profile, not a fixed template.",
@@ -138,10 +138,10 @@ const i18n = {
     teamSecH2:"Leadership and consulting team", teamSecP:"A different specialist for each discipline a project demands.",
     team1Role:"CEO & Principal Economist",
     team1Tag:"Financial strategist, 20+ years of experience",
-    team1Bio:"With more than 20 years of experience, he leads KBP Business &amp; Projects' strategy. He specializes in complex debt structuring and institutional-grade business plan design. His micro and macroeconomic analysis, combined with predictive econometric models and sector analysis, helps corporates and institutional investors anticipate market conditions, mitigate financial risk and optimize capital returns.",
+    team1Bio:"With more than 20 years of experience, he leads KABEPE' strategy. He specializes in complex debt structuring and institutional-grade business plan design. His micro and macroeconomic analysis, combined with predictive econometric models and sector analysis, helps corporates and institutional investors anticipate market conditions, mitigate financial risk and optimize capital returns.",
     team2Role:"Legal & Corporate Structuring Director",
     team2Tag:"Legal architect and strategic negotiator",
-    team2Bio:"More than legal counsel, she brings business structuring. She specializes in legal financial engineering, mergers, acquisitions and capital raising. She designs the corporate contracts that protect every investment, giving KBP's economic strategy a solid legal foundation. She turns regulatory compliance into a competitive advantage, reducing contingencies and giving shareholders certainty in large-scale project execution.",
+    team2Bio:"More than legal counsel, she brings business structuring. She specializes in legal financial engineering, mergers, acquisitions and capital raising. She designs the corporate contracts that protect every investment, giving KABEPE's economic strategy a solid legal foundation. She turns regulatory compliance into a competitive advantage, reducing contingencies and giving shareholders certainty in large-scale project execution.",
     team3Role:"Market Intelligence & Commercial Strategy Director",
     team3Tag:"Value accelerator and B2B/B2C positioning",
     team3Bio:"Translates financial projections into market strategy. Turns data analysis and sector trends into results-driven B2B and B2C go-to-market strategies. Develops penetration and commercialization models that help projects not only work on paper, but capture real traction and generate predictable cash flow.",
@@ -156,7 +156,7 @@ const i18n = {
     contactCta1:"Email us", contactCta2:"Call us",
     contactL1:"Email", contactL2:"Phone", contactL4:"Hours", contactL4val:"Monday to Friday", contactL5:"Follow us",
     footerTag:"We are business, and we take your business as if it were ours. Your success is our success.",
-    footerLeft:"© 2019 KBP Business & Projects.",
+    footerLeft:"© 2019 KABEPE.",
     footerRight:"Administrative, financial and project consulting · All rights reserved"
   }
 };
@@ -327,163 +327,66 @@ const cases = {
     ]
   }
 };
-let activeCountry = 'mx';
-function renderCases(){
-  const list = document.getElementById('cases-list');
-  const items = cases[currentLang][activeCountry];
-  list.innerHTML = items.map((c,i)=>`
-    <div class="case-item">
-      <div class="case-num">${String(i+1).padStart(2,'0')}</div>
-      <div>
-        <span class="case-tag">${c.tag}</span>
-        <div class="case-company">${c.company}</div>
-        <div class="case-title">${c.title}</div>
-        <p class="case-summary">${c.summary}</p>
-      </div>
-    </div>`).join('');
-}
-document.getElementById('case-mx').addEventListener('click', ()=>{
-  activeCountry='mx';
-  document.getElementById('case-mx').classList.add('active');
-  document.getElementById('case-us').classList.remove('active');
-  renderCases();
-});
-document.getElementById('case-us').addEventListener('click', ()=>{
-  activeCountry='us';
-  document.getElementById('case-us').classList.add('active');
-  document.getElementById('case-mx').classList.remove('active');
-  renderCases();
-});
 
-let currentLang = 'es';
-let activeGloss = 0;
-
+Object.assign(i18n.es,{heroH1:'Capital para tu siguiente <em>paso.</em>',heroLede:'Estructuración de financiamiento y estrategia de negocio, del análisis al cierre. Para empresas que producen, crecen y transforman.',heroKicker:'KABEPE / CAPITAL & BUSINESS STRATEGY',heroCta1:'Hablemos de tu proyecto ↗',heroCta2:'Explorar soluciones',spH2:'Capital que entiende el ciclo productivo.',pillarsH2:'Una estrategia. Dos líneas de trabajo.',glossH2:'Encuentra la estructura adecuada.',glossP:'Explora el objetivo, el alcance y los elementos de cada solución.',footerLeft:'© 2026 KABEPE. Todos los derechos reservados.',navSector:'Sectores',skip:'Ir al contenido',routeKicker:'EMPIEZA POR TU OBJETIVO',routeTitle:'¿Qué necesita tu negocio?',routeWorking:'Capital de trabajo',routeAssets:'Inversión en activos',routeExport:'Crecer y exportar',routeMA:'Una adquisición',searchLabel:'Buscar una solución',galleryEyebrow:'CAPITAL CON PROPÓSITO',galleryTitle:'De la estrategia a la operación.',industryTitle:'Industria que se transforma.',industryText:'Equipamiento, capacidad instalada y expansión.',tradeTitle:'Negocios en movimiento.',tradeText:'Inventarios, distribución y capital de trabajo.',exploreSolution:'Explorar solución ↗',readProfile:'Ver perfil',contactDisclaimer:'La aprobación, condiciones y tiempos de financiamiento dependen de cada institución y del análisis del proyecto.'});
+Object.assign(i18n.en,{heroH1:'Capital for your next <em>move.</em>',heroLede:'Financing structuring and business strategy, from analysis to closing. For businesses that produce, grow and transform.',heroKicker:'KABEPE / CAPITAL & BUSINESS STRATEGY',heroCta1:"Let's discuss your project ↗",heroCta2:'Explore solutions',spH2:'Capital that understands production.',pillarsH2:'One strategy. Two service lines.',glossH2:'Find the right structure.',glossP:'Explore the objective, scope and elements of each solution.',footerLeft:'© 2026 KABEPE. All rights reserved.',navSector:'Industries',skip:'Skip to content',routeKicker:'START WITH YOUR OBJECTIVE',routeTitle:'What does your business need?',routeWorking:'Working capital',routeAssets:'Investment in assets',routeExport:'Growth and exports',routeMA:'An acquisition',searchLabel:'Find a solution',galleryEyebrow:'CAPITAL WITH PURPOSE',galleryTitle:'From strategy to operations.',industryTitle:'Industry in transformation.',industryText:'Equipment, operating capacity and expansion.',tradeTitle:'Business in motion.',tradeText:'Inventory, distribution and working capital.',exploreSolution:'Explore solution ↗',readProfile:'Read profile',contactDisclaimer:'Financing approval, terms and timelines depend on each institution and its assessment of the project.'});
+Object.assign(i18n.es,{heroH1:'Financiamiento para crecer. <em>Estrategia para avanzar.</em>',heroKicker:'CONSULTORÍA FINANCIERA Y ESTRATEGIA DE NEGOCIO',heroLede:'Estructuramos el financiamiento de tu empresa y preparamos tu proyecto para presentarlo ante bancos, fondos y fuentes de inversión en México y el extranjero.',heroCta1:'Agenda tu diagnóstico ↗',heroCta2:'Encuentra tu solución',heroPhotoLabel:'DEL PROYECTO A LA INVERSIÓN',heroPhotoTitle:'Tu siguiente movimiento empieza con una estrategia.',heroTrust2:'México y mercados internacionales',routeWorkingHint:'Dale liquidez a tu operación.',routeAssetsHint:'Equipa y amplía tu capacidad.',routeExportHint:'Prepara tu negocio para nuevos mercados.',routeMAHint:'Estructura la compra de otra empresa.',categoryAll:'Todas',categoryOperation:'Operación',categoryGrowth:'Crecimiento',categoryTransactions:'Deuda y adquisiciones',glossH2:'¿Qué quieres financiar?',glossP:'Elige tu necesidad. Conoce la solución y cómo la estructuramos.',readApproach:'Ver nuestro enfoque',galleryEyebrow:'TU NEGOCIO. SU SIGUIENTE ETAPA.',galleryTitle:'La estrategia se construye sobre tu operación.',industryTab:'Industria',agroTab:'Sector primario',tradeTab:'Comercio y distribución',navSector:'Sectores',spH2:'Del ciclo productivo al expediente de inversión.'});
+Object.assign(i18n.en,{heroH1:'Financing to grow. <em>Strategy to move forward.</em>',heroKicker:'FINANCIAL CONSULTING & BUSINESS STRATEGY',heroLede:'We structure financing for your business and prepare your project for banks, funds and investment sources in Mexico and international markets.',heroCta1:'Book your assessment ↗',heroCta2:'Find your solution',heroPhotoLabel:'FROM PROJECT TO INVESTMENT',heroPhotoTitle:'Your next move starts with a strategy.',heroTrust2:'Mexico and international markets',routeWorkingHint:'Keep your operations moving.',routeAssetsHint:'Equip and expand your capacity.',routeExportHint:'Prepare for new markets.',routeMAHint:'Structure a business acquisition.',categoryAll:'All',categoryOperation:'Operations',categoryGrowth:'Growth',categoryTransactions:'Debt & acquisitions',glossH2:'What do you want to finance?',glossP:'Choose your need. Explore the solution and how we structure it.',readApproach:'Explore our approach',galleryEyebrow:'YOUR BUSINESS. ITS NEXT CHAPTER.',galleryTitle:'Strategy built around your operations.',industryTab:'Industry',agroTab:'Primary production',tradeTab:'Trade & distribution',navSector:'Industries',spH2:'From production cycles to investment readiness.'});
+Object.assign(i18n.es,{quickSolutions:'Ver soluciones',quickAssessment:'Agenda tu diagnóstico ↗'});Object.assign(i18n.en,{quickSolutions:'View solutions',quickAssessment:'Book an assessment ↗'});
+let currentLang='es',activeCountry='mx',activeGloss=0,activeCategory='all';
+const categoryGroups={operation:[0,8,9],growth:[1,3,5,10,11],transactions:[2,4,6,7]};
+const reduced=matchMedia('(prefers-reduced-motion: reduce)').matches;
+const expertise={es:['Legal','Financiero','Económico','Mercados','Ingeniería de procesos','Sistemas','Horticultura y producción primaria'],en:['Legal','Financial','Economic','Markets','Process engineering','Systems','Horticulture & primary production']};
+const search=document.getElementById('service-search');
+const normalize=s=>s.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
+function matches(item){const index=glossary[currentLang].indexOf(item);if(activeCategory!=='all'&&!categoryGroups[activeCategory].includes(index))return false;const words=normalize(search.value).trim().split(/\s+/).filter(Boolean);return words.every(w=>normalize([item.title,item.tag,item.def,item.who,...item.includes].join(' ')).includes(w));}
 function renderGlossIndex(){
-  const idx = document.getElementById('gloss-index');
-  idx.innerHTML = '';
-  glossary[currentLang].forEach((item, i)=>{
-    const el = document.createElement('div');
-    el.className = 'gloss-item' + (i===activeGloss ? ' active' : '');
-    el.innerHTML = `<span class="gi-num">${String(i+1).padStart(2,'0')}</span><span>${item.title}</span>`;
-    el.addEventListener('click', ()=>{ activeGloss = i; renderGlossIndex(); renderGlossPanel(); });
-    idx.appendChild(el);
-  });
+ const idx=document.getElementById('gloss-index');idx.replaceChildren();let count=0;
+ if(!matches(glossary[currentLang][activeGloss])){const first=glossary[currentLang].findIndex(matches);if(first>=0)activeGloss=first;}
+ document.querySelectorAll('[data-category]').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.category===activeCategory)));
+ glossary[currentLang].forEach((item,i)=>{
+  if(!matches(item))return;count++;
+  const btn=document.createElement('button');btn.type='button';btn.id='service-'+i;btn.className='gloss-item'+(i===activeGloss?' active':'');btn.setAttribute('aria-pressed',String(i===activeGloss));btn.setAttribute('aria-controls','gloss-panel');
+  btn.innerHTML='<span class="gi-num">'+String(i+1).padStart(2,'0')+'</span><span>'+item.title+'</span>';
+  btn.addEventListener('click',()=>{activeGloss=i;renderGlossIndex();renderGlossPanel();document.getElementById('service-'+i)?.focus({preventScroll:true});if(innerWidth<861)document.getElementById('gloss-panel').scrollIntoView({behavior:reduced?'instant':'smooth',block:'start'});});
+  idx.append(btn);
+ });
+ if(innerWidth<861){const selected=idx.querySelector('.active');if(selected)idx.scrollTo({left:Math.max(0,selected.offsetLeft-12),behavior:'instant'});}
+ document.getElementById('search-result').textContent=currentLang==='es'?(count?count+' soluciones disponibles':'Sin resultados. Prueba otro término.'):(count?count+' solutions available':'No results. Try another term.');
 }
 function renderGlossPanel(){
-  const item = glossary[currentLang][activeGloss];
-  const panel = document.getElementById('gloss-panel');
-  const incTitle = currentLang==='es' ? 'Incluye' : 'Includes';
-  const whoTitle = currentLang==='es' ? 'Para quién' : 'Who it\'s for';
-  const termTitle = currentLang==='es' ? 'Plazo típico' : 'Typical timeframe';
-  const howTitle = currentLang==='es' ? 'Cómo lo trabajamos en KBP' : 'How we work it at KBP';
-  panel.innerHTML = `
-    <div class="gp-fade">
-      <div class="gp-term">${item.tag}</div>
-      <div class="gp-title">${item.title}</div>
-      <p class="gp-def">${item.def}</p>
-      <div class="gp-approach">
-        <h4>${howTitle}</h4>
-        <div class="gp-steps">${item.approach.map((s,i)=>`<div class="gp-step"><span class="gs-num">${i+1}</span><span>${s}</span></div>`).join('')}</div>
-      </div>
-      <div class="gp-cols">
-        <div class="gp-col"><h4>${incTitle}</h4><ul>${item.includes.map(x=>`<li>${x}</li>`).join('')}</ul></div>
-        <div class="gp-col"><h4>${whoTitle}</h4><ul><li>${item.who}</li></ul></div>
-      </div>
-      <span class="gp-badge">${termTitle}: ${item.term}</span>
-    </div>`;
+ const item=glossary[currentLang][activeGloss],en=currentLang==='en';const panel=document.getElementById('gloss-panel');
+ panel.innerHTML='<div class="gp-fade"><div class="gp-term">'+item.tag+'</div><h3 class="gp-title">'+item.title+'</h3><p class="gp-def">'+item.def+'</p><div class="gp-approach"><h4>'+(en?'How we approach it':'Cómo lo trabajamos')+'</h4><div class="gp-steps">'+item.approach.map((s,i)=>'<div class="gp-step"><span class="gs-num">'+(i+1)+'</span><span>'+s+'</span></div>').join('')+'</div></div><div class="gp-cols"><div class="gp-col"><h4>'+(en?'Includes':'Incluye')+'</h4><ul>'+item.includes.map(s=>'<li>'+s+'</li>').join('')+'</ul></div><div class="gp-col"><h4>'+(en?"Who it's for":'Para quién')+'</h4><p>'+item.who+'</p></div></div><span class="gp-badge">'+(en?'Reference timeframe: ':'Plazo de referencia: ')+item.term+'</span><br><a class="solution-contact" href="#contacto">'+(en?'Discuss this solution ↗':'Consultar esta solución ↗')+'</a></div>';
+ panel.hidden=!glossary[currentLang].some(matches);
 }
-
-const expertise = {
-  es:["Legal","Financiero","Económico","Mercados","Ingeniería de procesos","Sistemas","Horticultura y producción primaria"],
-  en:["Legal","Financial","Economic","Markets","Process engineering","Systems","Horticulture & primary production"]
-};
-function renderExpGrid(){
-  const grid = document.getElementById('exp-grid');
-  grid.innerHTML = expertise[currentLang].map((name,i)=>
-    `<div class="exp-chip"><span class="exp-num">${String(i+1).padStart(2,'0')}</span><span class="exp-name">${name}</span></div>`
-  ).join('');
+function renderCases(){
+ document.getElementById('cases-list').innerHTML=cases[currentLang][activeCountry].map((c,i)=>'<details class="case-item"><summary><span class="case-num">0'+(i+1)+'</span><span><span class="case-tag">'+c.tag+'</span><span class="case-company">'+c.company+'</span><h3 class="case-title">'+c.title+'</h3></span></summary><p class="case-summary">'+c.summary+'</p></details>').join('');
+ ['mx','us'].forEach(c=>{const b=document.getElementById('case-'+c);b.classList.toggle('active',c===activeCountry);b.setAttribute('aria-pressed',String(c===activeCountry));});
 }
-
 function setLang(lang){
-  currentLang = lang;
-  document.documentElement.lang = lang;
-  document.querySelectorAll('[data-i18n]').forEach(el=>{
-    const key = el.getAttribute('data-i18n');
-    const val = i18n[lang][key];
-    if(val !== undefined) el.innerHTML = val;
-  });
-  document.getElementById('btn-es').classList.toggle('active', lang==='es');
-  document.getElementById('btn-en').classList.toggle('active', lang==='en');
-  renderGlossIndex();
-  renderGlossPanel();
-  renderExpGrid();
-  renderCases();
+ if(!['es','en'].includes(lang))return;if(currentLang!==lang)search.value='';currentLang=lang;document.documentElement.lang=lang;
+ document.querySelectorAll('[data-i18n]').forEach(el=>{const val=i18n[lang][el.dataset.i18n];if(val!==undefined)el.innerHTML=val;});
+ document.querySelectorAll('#btn-es,#btn-en,[data-lang]').forEach(b=>{const active=(b.dataset.lang||b.id.slice(4))===lang;b.classList.toggle('active',active);b.setAttribute('aria-pressed',String(active));});
+ search.placeholder=lang==='es'?'Capital, exportación, activos…':'Capital, exports, assets…';
+ document.getElementById('exp-grid').innerHTML=expertise[lang].map((name,i)=>'<div class="exp-chip"><span class="exp-num">0'+(i+1)+'</span><span class="exp-name">'+name+'</span></div>').join('');
+ document.getElementById('menu-toggle').setAttribute('aria-label',lang==='es'?'Abrir menú':'Open menu');document.getElementById('mn-close').setAttribute('aria-label',lang==='es'?'Cerrar menú':'Close menu');
+ document.querySelector('.solution-categories').setAttribute('aria-label',lang==='es'?'Filtrar soluciones':'Filter solutions');document.querySelector('.industry-tabs').setAttribute('aria-label',lang==='es'?'Sectores':'Industries');
+ renderGlossIndex();renderGlossPanel();renderCases();document.dispatchEvent(new CustomEvent('kabepe:language',{detail:lang}));try{localStorage.setItem('kabepe-language',lang);}catch{}
 }
-document.getElementById('btn-es').addEventListener('click', ()=>setLang('es'));
-document.getElementById('btn-en').addEventListener('click', ()=>setLang('en'));
-setLang('es');
-
-/* scroll reveal */
-/* mobile menu */
-const menuToggle = document.getElementById('menu-toggle');
-const mobileNav = document.getElementById('mobile-nav');
-const mnClose = document.getElementById('mn-close');
-function closeMobileNav(){ mobileNav.classList.remove('open'); menuToggle.classList.remove('open'); }
-menuToggle.addEventListener('click', ()=>{
-  mobileNav.classList.toggle('open');
-  menuToggle.classList.toggle('open');
-});
-mnClose.addEventListener('click', closeMobileNav);
-mobileNav.querySelectorAll('a').forEach(a=>a.addEventListener('click', closeMobileNav));
-
-/* scroll-spy: resalta el link de la sección visible en el panel lateral */
-const navLinks = document.querySelectorAll('.rail-nav a[href^="#"]');
-const spySections = Array.from(navLinks).map(a => document.querySelector(a.getAttribute('href'))).filter(Boolean);
-const spyObserver = new IntersectionObserver((entries)=>{
-  entries.forEach(entry=>{
-    const id = '#' + entry.target.id;
-    const link = document.querySelector(`.rail-nav a[href="${id}"]`);
-    if(!link) return;
-    if(entry.isIntersecting){
-      navLinks.forEach(a=>a.classList.remove('active'));
-      link.classList.add('active');
-    }
-  });
-}, { rootMargin: '-45% 0px -50% 0px', threshold: 0 });
-spySections.forEach(s => spyObserver.observe(s));
-
-/* barra de progreso de lectura en el panel lateral */
-const railProgressFill = document.getElementById('rail-progress-fill');
-function updateRailProgress(){
-  if(!railProgressFill) return;
-  const scrollTop = window.scrollY;
-  const docHeight = document.documentElement.scrollHeight - window.innerHeight;
-  const pct = docHeight > 0 ? (scrollTop / docHeight) * 100 : 0;
-  railProgressFill.style.width = pct + '%';
-}
-window.addEventListener('scroll', updateRailProgress, { passive: true });
-updateRailProgress();
-
-const io = new IntersectionObserver((entries)=>{
-  entries.forEach(e=>{ if(e.isIntersecting){ e.target.classList.add('in'); io.unobserve(e.target); } });
-}, {threshold:.12});
-document.querySelectorAll('.reveal').forEach(el=>io.observe(el));
-
-/* animated counters */
-const counted = new WeakSet();
-const cio = new IntersectionObserver((entries)=>{
-  entries.forEach(e=>{
-    if(e.isIntersecting && !counted.has(e.target)){
-      counted.add(e.target);
-      const target = parseInt(e.target.getAttribute('data-count'), 10);
-      const dur = 1100; const start = performance.now();
-      function tick(now){
-        const p = Math.min((now-start)/dur, 1);
-        e.target.textContent = Math.round(target * (1 - Math.pow(1-p,3)));
-        if(p<1) requestAnimationFrame(tick);
-      }
-      requestAnimationFrame(tick);
-    }
-  });
-}, {threshold:.4});
-document.querySelectorAll('[data-count]').forEach(el=>cio.observe(el));
+document.querySelectorAll('#btn-es,#btn-en,[data-lang]').forEach(b=>b.addEventListener('click',()=>setLang(b.dataset.lang||b.id.slice(4))));
+['mx','us'].forEach(c=>document.getElementById('case-'+c).addEventListener('click',()=>{activeCountry=c;renderCases();}));
+search.addEventListener('input',()=>{const first=glossary[currentLang].findIndex(matches);if(first>=0)activeGloss=first;renderGlossIndex();renderGlossPanel();});
+document.querySelectorAll('[data-category]').forEach(b=>b.addEventListener('click',()=>{activeCategory=b.dataset.category;renderGlossIndex();renderGlossPanel();}));
+const menuToggle=document.getElementById('menu-toggle'),mobileNav=document.getElementById('mobile-nav');
+function setMenu(open){mobileNav.inert=!open;mobileNav.classList.toggle('open',open);menuToggle.classList.toggle('open',open);menuToggle.setAttribute('aria-expanded',String(open));document.body.style.overflow=open?'hidden':'';if(open)document.getElementById('mn-close').focus();}
+menuToggle.addEventListener('click',()=>setMenu(!mobileNav.classList.contains('open')));document.getElementById('mn-close').addEventListener('click',()=>{setMenu(false);menuToggle.focus();});
+mobileNav.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>setMenu(false)));
+document.addEventListener('keydown',e=>{if(!mobileNav.classList.contains('open'))return;if(e.key==='Escape'){setMenu(false);menuToggle.focus();}if(e.key==='Tab'){const els=[...mobileNav.querySelectorAll('a,button')];const first=els[0],last=els.at(-1);if(e.shiftKey&&document.activeElement===first){e.preventDefault();last.focus();}else if(!e.shiftKey&&document.activeElement===last){e.preventDefault();first.focus();}}});
+matchMedia('(min-width:861px)').addEventListener('change',e=>{if(e.matches)setMenu(false);});
+function routeService(){const match=location.hash.match(/^#service-(\d+)$/);if(!match)return;const i=Number(match[1]);if(i>=glossary[currentLang].length)return;activeGloss=i;activeCategory='all';search.value='';renderGlossIndex();renderGlossPanel();document.getElementById('glosario').scrollIntoView({behavior:reduced?'instant':'smooth',block:'start'});}
+window.addEventListener('hashchange',routeService);
+document.addEventListener('click',e=>{const a=e.target.closest('a[href^="#service-"]');if(a&&a.hash===location.hash)routeService();});
+const navLinks=[...document.querySelectorAll('.rail-nav a')];
+if('IntersectionObserver' in window){const spy=new IntersectionObserver(entries=>entries.forEach(e=>{if(!e.isIntersecting)return;navLinks.forEach(a=>{const active=a.hash==='#'+e.target.id;a.classList.toggle('active',active);if(active)a.setAttribute('aria-current','location');else a.removeAttribute('aria-current');});}),{rootMargin:'-15% 0px -65% 0px'});navLinks.forEach(a=>{const target=document.querySelector(a.hash);if(target)spy.observe(target);});}
+const progress=document.getElementById('rail-progress-fill');let scheduled=false;function updateProgress(){scheduled=false;const max=document.documentElement.scrollHeight-innerHeight;progress.style.width=(max>0?scrollY/max*100:0)+'%';}addEventListener('scroll',()=>{if(!scheduled){scheduled=true;requestAnimationFrame(updateProgress);}},{passive:true});
+try{setLang(localStorage.getItem('kabepe-language')||'es');}catch{setLang('es');}routeService();updateProgress();
