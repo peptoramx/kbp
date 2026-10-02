@@ -34,4 +34,4 @@ Anchuras reales de 320, 390, 768 y 1366 px sin desbordamiento ni títulos recort
 
 ## Límites y siguiente etapa
 
-Las fotografías actuales siguen siendo los recursos editoriales reutilizados anteriormente; las imágenes exclusivas nuevas se aplazan según lo acordado con el usuario. Los textos originales de casos y experiencia requieren confirmación empresarial. Esta revisión no sustituye pruebas en todos los navegadores y dispositivos físicos. La publicación conserva DNS y correo sin cambios.
+El explorador utiliza tres fotografías exclusivas generadas para KABEPE, optimizadas en WebP a 640 y 1200 px, sin palabras incrustadas. Son escenas ilustrativas, no clientes ni instalaciones reales. Los textos originales de casos y experiencia requieren confirmación empresarial. Esta revisión no sustituye pruebas en todos los navegadores y dispositivos físicos. La publicación conserva DNS y correo sin cambios.

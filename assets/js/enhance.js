@@ -9,7 +9,8 @@ const industryImage=document.getElementById('industry-image'),industryCopy=docum
 function showIndustry(name){
  if(!industryContent[name])return;activeIndustry=name;const content=industryContent[name],language=content[currentLang];
  document.querySelectorAll('[data-industry]').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.industry===name)));
- industryImage.src='assets/img/'+name+'-1200.webp';industryImage.srcset='assets/img/'+name+'-640.webp 640w, assets/img/'+name+'-1200.webp 1200w';
+ industryImage.src='assets/img/kabepe-'+name+'-1200.webp';industryImage.srcset='assets/img/kabepe-'+name+'-640.webp 640w, assets/img/kabepe-'+name+'-1200.webp 1200w';
+ industryImage.style.objectPosition=name==='industry'?'60% center':'62% center';
  const number=Object.keys(industryContent).indexOf(name)+1;
  industryCopy.replaceChildren();const count=document.createElement('span');count.className='industry-count';count.setAttribute('aria-hidden','true');count.textContent='0'+number+' / 03';const heading=document.createElement('h3');heading.textContent=language[0];const description=document.createElement('p');description.textContent=language[1];const link=document.createElement('a');link.className='btn gold';link.href='#service-'+content.service;link.textContent=currentLang==='es'?'Explorar solución ↗':'Explore solution ↗';industryCopy.append(count,heading,description,link);
  industryCopy.classList.remove('panel-enter');requestAnimationFrame(()=>industryCopy.classList.add('is-entering'));

@@ -14,7 +14,7 @@ Idioma persistente; búsqueda insensible a acentos; filtros por operación, crec
 
 Las dos variantes proporcionadas son las fuentes de los logos e iconos, sin rediseñar la marca. El usuario autorizó quitar el fondo blanco por procesamiento local después de que la herramienta de imágenes alcanzara su límite: variantes transparentes WebP sin pérdida, originales conservados y favicon/iconos con alfa. Paleta cyan/negro/blanco; Sora y Manrope con alternativas locales. Google Fonts requiere conexión.
 
-Cuatro imágenes editoriales distintas reutilizadas de los recursos generados para ONCE14: consultoría, agricultura, industria y distribución. No representan clientes ni instalaciones reales. La generación de imágenes exclusivas nuevas quedó temporalmente impedida por el límite del servicio.
+Tres fotografías editoriales exclusivas generadas para KABEPE: industria, sector primario y distribución. Variantes WebP de 640 y 1200 px con carga diferida; los originales se conservan localmente. No representan clientes ni instalaciones reales. Las imágenes anteriores permanecen como histórico pero ya no se utilizan en el explorador ni en la vista previa social.
 
 ## Verificación local
 
