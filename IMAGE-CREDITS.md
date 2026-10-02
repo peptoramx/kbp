@@ -14,4 +14,17 @@ Generadas con la herramienta integrada de imágenes el 1 de octubre de 2026. Esc
 
 ## Publicación
 
+## Galería de proyectos México / USA
+
+Seis imágenes independientes creadas con la herramienta integrada; se publican variantes WebP de 640 y 1200 px. Originales PNG conservados localmente. Prompts: fotografía editorial fotorrealista en formato horizontal 3:2, sujeto central apto para recorte responsive, texturas reales, sin textos, logos, marcas de agua, collages o gráficas flotantes. Escenas ficticias, no fotografías de clientes:
+
+1. `case-mx-berries`: planta mexicana de empaque de berries y cadena de frío, transportador de acero inoxidable, arándanos en bandejas y puertas refrigeradas.
+2. `case-mx-plaza`: plaza comercial contemporánea de uso mixto en el noroeste de México, patio peatonal sombreado, locales de baja altura y paisajismo desértico.
+3. `case-mx-manufacturing`: planta manufacturera regional mexicana, producción de metales de precisión y maquinaria en una operación ordenada.
+4. `case-us-food`: distribuidora de alimentos estadounidense en temporada alta, almacén refrigerado, pallets de productos y zona de carga.
+5. `case-us-poultry`: línea moderna de procesamiento avícola estadounidense, equipos sanitarios de acero inoxidable y operadores con protección, sin escenas de sacrificio.
+6. `case-us-logistics`: expansión de parque logístico del suroeste estadounidense, edificios de distribución, andenes y vialidades.
+
+La galería conserva el selector de país y los textos ES/EN, con detalles nativos accesibles por teclado. Tres columnas en escritorio y una en móvil. Para revertir solo esta galería, volver al commit `4f50d0704fdac4a9ef48e4433a07c7500c90a1bd`.
+
 Se mantienen las imágenes antiguas para recuperación. Para revertir esta integración, restaurar la versión del sitio del commit `6c3789fa14a5cbc0cc250f70693c60f7dd306f1a`. No hay cambios en DNS, correo, logo, fichas de soluciones ni honorarios.

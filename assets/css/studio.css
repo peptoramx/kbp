@@ -23,3 +23,19 @@ footer{background:#e8f8ff;padding:30px 0 34px}.footer-brand img{width:235px;heig
 @media(max-width:480px){.about-quote h2{font-size:30px}}
 html{scroll-padding-top:90px}section{scroll-margin-top:0}
 @media(max-width:860px){html{scroll-padding-top:78px}}
+/* Project-specific visual stories; native details retain keyboard support. */
+#cases-list{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:22px;align-items:start}
+#cases-list .case-item{border:1px solid var(--line);border-radius:16px;background:#fff;overflow:hidden;transition:border-color .2s,box-shadow .2s}
+#cases-list .case-item:hover{border-color:#88cfe4;box-shadow:0 10px 28px #082d3c0a}
+#cases-list .case-item summary{display:block;padding:0;position:relative;cursor:pointer}
+#cases-list .case-item summary::after{position:absolute;right:22px;bottom:20px;width:28px;height:28px;text-align:center;line-height:28px;background:#ecf8fc;border-radius:50%;font-size:20px}
+#cases-list .case-photo{display:block;width:100%;height:190px;object-fit:cover;transition:transform .3s}
+#cases-list .case-preview{display:block;padding:22px;min-height:220px}
+#cases-list .case-num{display:block;padding:0;margin-bottom:10px}
+#cases-list .case-title{font-size:18px;line-height:1.45;margin-bottom:18px}
+#cases-list .case-action{display:block;font-size:11px;font-weight:700;color:var(--cyan-dark);padding-right:35px}
+#cases-list .case-summary{padding:0 22px 24px;font-size:12px;line-height:1.8}
+#cases-list .case-item[open]{border-color:#79c9e0}
+@media(max-width:860px){#cases-list{grid-template-columns:1fr;gap:18px}#cases-list .case-photo{height:220px}#cases-list .case-preview{min-height:0}#cases-list .case-title{font-size:19px}}
+@media(max-width:480px){#cases-list .case-photo{height:180px}#cases-list .case-preview{padding:20px}#cases-list .case-title{font-size:17px}#cases-list .case-summary{padding:0 20px 22px}}
+@media(prefers-reduced-motion:reduce){#cases-list .case-item,#cases-list .case-photo{transition:none}}

@@ -357,7 +357,8 @@ function renderGlossPanel(){
  panel.hidden=!glossary[currentLang].some(matches);
 }
 function renderCases(){
- document.getElementById('cases-list').innerHTML=cases[currentLang][activeCountry].map((c,i)=>'<details class="case-item"><summary><span class="case-num">0'+(i+1)+'</span><span><span class="case-tag">'+c.tag+'</span><span class="case-company">'+c.company+'</span><h3 class="case-title">'+c.title+'</h3></span></summary><p class="case-summary">'+c.summary+'</p></details>').join('');
+ const caseImages={mx:['mx-berries','mx-plaza','mx-manufacturing'],us:['us-food','us-poultry','us-logistics']};
+ document.getElementById('cases-list').innerHTML=cases[currentLang][activeCountry].map((c,i)=>{const image='assets/img/case-'+caseImages[activeCountry][i];return '<details class="case-item"><summary><img class="case-photo" src="'+image+'-1200.webp" srcset="'+image+'-640.webp 640w, '+image+'-1200.webp 1200w" sizes="(max-width:860px) 100vw, 33vw" width="1200" height="800" loading="lazy" decoding="async" alt="'+(currentLang==='es'?'Escena ilustrativa: ':'Illustrative scene: ')+c.title+'"><span class="case-preview"><span class="case-num">0'+(i+1)+'</span><span class="case-tag">'+c.tag+'</span><span class="case-company">'+c.company+'</span><h3 class="case-title">'+c.title+'</h3><span class="case-action">'+(currentLang==='es'?'Explorar proyecto':'Explore project')+'</span></span></summary><p class="case-summary">'+c.summary+'</p></details>';}).join('');
  ['mx','us'].forEach(c=>{const b=document.getElementById('case-'+c);b.classList.toggle('active',c===activeCountry);b.setAttribute('aria-pressed',String(c===activeCountry));});
 }
 function setLang(lang){

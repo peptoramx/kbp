@@ -18,6 +18,8 @@ Tres fotografías editoriales exclusivas generadas para KABEPE: industria, secto
 
 ## Verificación local
 
+La sección de proyectos incluye una imagen propia para cada uno de los seis casos (tres de México y tres de USA), con galería de tres columnas en escritorio y una en móvil. Los detalles mantienen íntegros los textos originales y el selector de país ES/EN. Imágenes ilustrativas generadas, variantes WebP con carga diferida y recursos versionados para evitar caché obsoleta; documentación en `IMAGE-CREDITS.md`.
+
 Probadas anchuras reales de 320, 390, 768 y 1366 px sin desbordamiento horizontal, títulos recortados o textos bilingües vacíos. Probadas las 12 fichas, filtros, búsqueda sin acentos, cambio de idioma, selector de sectores, ruta desde sector primario, menú móvil, casos estadounidenses y desplegables. Todos los enlaces internos tienen destino y todos los recursos locales declarados existen. JavaScript pasa comprobación de sintaxis y la consola no mostró errores durante la revisión. No sustituye pruebas en todos los navegadores o dispositivos físicos.
 
 Experiencia, casos, equipo y honorarios proceden del sitio original y requieren confirmación empresarial. La versión previa fue publicada en el commit `6442299c3964f0d02a17e2c8215ff93f3504a097`. Esta reconstrucción Studio fue aprobada por el usuario para publicación; conserva DNS y correo sin cambios.
